@@ -20,7 +20,7 @@ npm run build
 
 ### Live proyect
 
-[Simple Store React Vite Tailwind](https://travel-vite-tailwind-react.edgardoponce.com/)
+[Simple landing page of travel](https://travel-vite-tailwind-react.edgardoponce.com/)
 
 ### ¿What the project do?
 
@@ -33,8 +33,6 @@ npm run build
 
 ![alt text](https://simple-store-vite-react-tailwind.edgardoponce.com/images/store_photos/diploma.png "Certification")
 
-### Download
 
-[Download certificate](https://simple-store-vite-react-tailwind.edgardoponce.com/images/store_photos/diploma-react-vite-tailwindcss.pdf)
 
 
