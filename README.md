@@ -31,8 +31,10 @@ npm run build
 
 ### Plazti certification 
 
-![alt text](https://simple-store-vite-react-tailwind.edgardoponce.com/images/store_photos/diploma.png "Certification")
+![alt text](https://travel-vite-tailwind-react.edgardoponce.com/diploma.png "Certification")
 
 
+### Download
 
+[Download certificate](https://travel-vite-tailwind-react.edgardoponce.com/diploma-tailwind.pdf)
 
